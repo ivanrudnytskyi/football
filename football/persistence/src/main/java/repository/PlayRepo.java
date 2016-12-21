@@ -1,4 +1,4 @@
-package repository;
+package com.softserve.delivery.a8_2.repository;
 
 import domain.Play;
 

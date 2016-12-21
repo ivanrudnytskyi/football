@@ -1,4 +1,4 @@
-package repository;
+package com.softserve.delivery.a8_2.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.NoRepositoryBean;

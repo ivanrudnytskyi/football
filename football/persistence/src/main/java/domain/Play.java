@@ -1,4 +1,4 @@
-package domain;
+package com.softserve.delivery.a8_2.domain;
 
 import java.sql.Timestamp;
 
